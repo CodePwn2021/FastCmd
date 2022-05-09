@@ -1,2 +1,2 @@
 # FastCmd
-A script for Fastbuilder. Just like rental server menu.
+A script plugin for Fastbuilder. Just like rental server menu.
