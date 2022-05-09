@@ -1,0 +1,1 @@
+console.log(consts.uc_username);
