@@ -1,0 +1,31 @@
+{
+    "target": "node",
+    "seed": "#SEED#",
+    "deadCodeInjection": true,
+    "deadCodeInjectionThreshold": 1,
+    "debugProtection": true,
+    "debugProtectionInterval": 3000,
+    "identifierNamesGenerator": "hexadecimal",
+    "numbersToExpressions": true,
+    "reservedNames": [
+        "^System",
+        "^Command",
+        "^Function",
+        "^ScoreBoard",
+        "^Utils",
+        "^messageEvent",
+        "^Cache",
+        "^Config",
+        "^Init"
+    ],
+    "selfDefending": true,
+    "splitStrings": true,
+    "splitStringsChunkLength": 8,
+    "stringArray": true,
+    "stringArrayCallsTransform": true,
+    "stringArrayCallsTransformThreshold": 1,
+    "stringArrayEncoding": [ "rc4" ],
+    "stringArrayWrappersParametersMaxCount": 4,
+    "stringArrayThreshold": 1,
+    "transformObjectKeys": true
+}
