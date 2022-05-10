@@ -1,7 +1,8 @@
 # FastCmd
 A script plugin for Fastbuilder. Just like rental server menu.
-## 如何打包
-抱歉，不提供相关打包工具，请自行研究。
-直接使用官方提供的 --pack-scripts 参数会导致出错且无法运行。
-## 提示
-纵使FastCmd已开源，但它任旧是一个商业化的插件，你可以利用这个插件来盈利，但是禁止将该插件本身以及插件代码用于商业用途。
+## How to pack it?
+Sorry, the packaging tools are not provided.
+Due to the special project structure, using the --pack-scripts parameter directly will cause it to fail to run, or even make an error.
+## About commercial license
+You CANNOT do it.
+no matter how you contact me
