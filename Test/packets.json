@@ -1,0 +1,227 @@
+{
+	"ActionType": 0,
+	"Entries": [{
+		"UUID": "00000000-0000-4000-8000-00001e4f7d58",
+		"EntityUniqueID": -4294967288,
+		"Username": "LeiJun114514",
+		"XUID": "1e4f7d58",
+		"PlatformChatID": "",
+		"BuildPlatform": 1,
+		"Skin": {
+			"SkinID": "c18e65aa-7b21-4637-9b63-8ad63622ef01.CustomSlim7e0cb34b00fa4847b86789c2ff4d7cd5",
+			"PlayFabID": "",
+			"SkinResourcePatch": "省略",
+			"SkinImageWidth": 64,
+			"SkinImageHeight": 64,
+			"SkinData": "省略",
+			"Animations": [],
+			"CapeImageWidth": 0,
+			"CapeImageHeight": 0,
+			"CapeData": "",
+			"SkinGeometry": "省略",
+			"AnimationData": "",
+			"PremiumSkin": true,
+			"PersonaSkin": false,
+			"PersonaCapeOnClassicSkin": false,
+			"CapeID": "4642636640674412685",
+			"FullSkinID": "c18e65aa-7b21-4637-9b63-8ad63622ef01.CustomSlim7e0cb34b00fa4847b86789c2ff4d7cd54642636640674412685",
+			"SkinColour": "#0",
+			"ArmSize": "",
+			"PersonaPieces": [],
+			"PieceTintColours": [],
+			"Trusted": true
+		},
+		"Teacher": false,
+		"Host": false
+	}]
+}
+
+{
+	"ActionType": 1,
+	"Entries": [{
+		"UUID": "00000000-0000-4000-8000-00001e4f7d58",
+		"EntityUniqueID": 0,
+		"Username": "",
+		"XUID": "",
+		"PlatformChatID": "",
+		"BuildPlatform": 0,
+		"Skin": {
+			"SkinID": "",
+			"PlayFabID": "",
+			"SkinResourcePatch": null,
+			"SkinImageWidth": 0,
+			"SkinImageHeight": 0,
+			"SkinData": null,
+			"Animations": null,
+			"CapeImageWidth": 0,
+			"CapeImageHeight": 0,
+			"CapeData": null,
+			"SkinGeometry": null,
+			"AnimationData": null,
+			"PremiumSkin": false,
+			"PersonaSkin": false,
+			"PersonaCapeOnClassicSkin": false,
+			"CapeID": "",
+			"FullSkinID": "",
+			"SkinColour": "",
+			"ArmSize": "",
+			"PersonaPieces": null,
+			"PieceTintColours": null,
+			"Trusted": false
+		},
+		"Teacher": false,
+		"Host": false
+	}]
+}
+
+{
+	"ActionType": 0,
+	"Entries": [{
+		"UUID": "00000000-0000-4000-8000-00001e4f7d58",
+		"EntityUniqueID": -4294967288,
+		"Username": "LeiJun114514",
+		"XUID": "1e4f7d58",
+		"PlatformChatID": "",
+		"BuildPlatform": 1,
+		"Skin": {
+			"SkinID": "c18e65aa-7b21-4637-9b63-8ad63622ef01.CustomSlim7e0cb34b00fa4847b86789c2ff4d7cd5",
+			"PlayFabID": "",
+			"SkinResourcePatch": "省略",
+			"SkinImageWidth": 64,
+			"SkinImageHeight": 64,
+			"SkinData": "省略",
+			"Animations": [],
+			"CapeImageWidth": 0,
+			"CapeImageHeight": 0,
+			"CapeData": "",
+			"SkinGeometry": "省略",
+			"AnimationData": "",
+			"PremiumSkin": true,
+			"PersonaSkin": false,
+			"PersonaCapeOnClassicSkin": false,
+			"CapeID": "4642636640674412685",
+			"FullSkinID": "c18e65aa-7b21-4637-9b63-8ad63622ef01.CustomSlim7e0cb34b00fa4847b86789c2ff4d7cd54642636640674412685",
+			"SkinColour": "#0",
+			"ArmSize": "",
+			"PersonaPieces": [],
+			"PieceTintColours": [],
+			"Trusted": true
+		},
+		"Teacher": false,
+		"Host": false
+	}]
+}
+
+{
+	"ActionType": 1,
+	"Entries": [{
+		"UUID": "00000000-0000-4000-8000-00001e4f7d58",
+		"EntityUniqueID": 0,
+		"Username": "",
+		"XUID": "",
+		"PlatformChatID": "",
+		"BuildPlatform": 0,
+		"Skin": {
+			"SkinID": "",
+			"PlayFabID": "",
+			"SkinResourcePatch": null,
+			"SkinImageWidth": 0,
+			"SkinImageHeight": 0,
+			"SkinData": null,
+			"Animations": null,
+			"CapeImageWidth": 0,
+			"CapeImageHeight": 0,
+			"CapeData": null,
+			"SkinGeometry": null,
+			"AnimationData": null,
+			"PremiumSkin": false,
+			"PersonaSkin": false,
+			"PersonaCapeOnClassicSkin": false,
+			"CapeID": "",
+			"FullSkinID": "",
+			"SkinColour": "",
+			"ArmSize": "",
+			"PersonaPieces": null,
+			"PieceTintColours": null,
+			"Trusted": false
+		},
+		"Teacher": false,
+		"Host": false
+	}]
+}
+
+{
+	"ActionType": 0,
+	"Entries": [{
+		"UUID": "00000000-0000-4000-8000-0000dac41c26",
+		"EntityUniqueID": -8589934591,
+		"Username": "JinFan233",
+		"XUID": "dac41c26",
+		"PlatformChatID": "",
+		"BuildPlatform": 1,
+		"Skin": {
+			"SkinID": "c18e65aa-7b21-4637-9b63-8ad63622ef01.Steve",
+			"PlayFabID": "",
+			"SkinResourcePatch": "省略",
+			"SkinImageWidth": 64,
+			"SkinImageHeight": 64,
+			"SkinData": "省略",
+			"Animations": [],
+			"CapeImageWidth": 0,
+			"CapeImageHeight": 0,
+			"CapeData": "",
+			"SkinGeometry": "bnVsbAo=",
+			"AnimationData": "",
+			"PremiumSkin": true,
+			"PersonaSkin": false,
+			"PersonaCapeOnClassicSkin": false,
+			"CapeID": "-1",
+			"FullSkinID": "c18e65aa-7b21-4637-9b63-8ad63622ef01.Steve-1",
+			"SkinColour": "#0",
+			"ArmSize": "",
+			"PersonaPieces": [],
+			"PieceTintColours": [],
+			"Trusted": true
+		},
+		"Teacher": false,
+		"Host": false
+	}]
+}
+
+{
+	"ActionType": 1,
+	"Entries": [{
+		"UUID": "00000000-0000-4000-8000-0000dac41c26",
+		"EntityUniqueID": 0,
+		"Username": "",
+		"XUID": "",
+		"PlatformChatID": "",
+		"BuildPlatform": 0,
+		"Skin": {
+			"SkinID": "",
+			"PlayFabID": "",
+			"SkinResourcePatch": null,
+			"SkinImageWidth": 0,
+			"SkinImageHeight": 0,
+			"SkinData": null,
+			"Animations": null,
+			"CapeImageWidth": 0,
+			"CapeImageHeight": 0,
+			"CapeData": null,
+			"SkinGeometry": null,
+			"AnimationData": null,
+			"PremiumSkin": false,
+			"PersonaSkin": false,
+			"PersonaCapeOnClassicSkin": false,
+			"CapeID": "",
+			"FullSkinID": "",
+			"SkinColour": "",
+			"ArmSize": "",
+			"PersonaPieces": null,
+			"PieceTintColours": null,
+			"Trusted": false
+		},
+		"Teacher": false,
+		"Host": false
+	}]
+}
